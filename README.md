@@ -55,7 +55,7 @@ go run main.go
 5. **Test the API**
 > **Note:** By default, the server runs on `http://localhost:3000`. Use Postman or curl to interact with the API.
 
-### Example cURL request to get all todos
+### Example cURL request to get all posts
 ```bash
 curl http://localhost:3000/posts
 ```
